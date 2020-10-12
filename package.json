@@ -1,0 +1,26 @@
+{
+  "name": "DoggiesForAdoption",
+  "version": "1.0.0",
+  "description": "A Website to adopt Cute Doggies",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Redight/DoggiesForAdoption.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Redight/DoggiesForAdoption/issues"
+  },
+  "homepage": "https://github.com/Redight/DoggiesForAdoption#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.21.6",
+    "nodemon": "^2.0.4",
+    "sqlite3": "^5.0.0"
+  }
+}
