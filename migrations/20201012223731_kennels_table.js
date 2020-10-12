@@ -7,7 +7,7 @@ exports.up = function(knex) {
         tbl.string("location", 500);
         tbl.string("email", 255);
         tbl.string("phone", 255);
-        tbl.string("img_ur", 255);
+        tbl.string("img_url", 255);
     })
   
 };
